@@ -9,8 +9,6 @@ Python: apt-get install python3-pip
 
 Twint: pip3 install --user --upgrade -e git + https: //github.com/twintproject/twint.git@origin/master#egg=twint
 
-Tweepy: pip3 install tweepy
-
 Pila ELK.
 
 TextBlob: pip3 install –U textblob / python3 –m textblob.download-corpora
